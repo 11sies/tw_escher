@@ -1,0 +1,11 @@
+body {
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+.bask {
+  font-family: "Libre Baskerville", serif;
+}
+
+.spaced-out {
+  word-spacing: .5em;
+}
